@@ -1,0 +1,21 @@
+.wrapper {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+}
+
+.columns > div {
+  margin-right: 20px;
+}
+
+.main {
+  background: #ccc;
+  color: #444;
+  padding: 1rem;
+}

@@ -1,0 +1,25 @@
+.header {
+  background: deeppink;
+  padding: 1rem;
+}
+
+.spacer {
+  height: 1px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background: purple;
+  padding: 1rem;
+}
+
+.nav {
+  margin-bottom: 20px;
+}
+
+.nav a {
+  display: block;
+  margin-bottom: 5px;
+  color: blue;
+  text-decoration: underline;
+}
